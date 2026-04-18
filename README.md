@@ -4,6 +4,10 @@ Synergia-Connect is a full-stack web application designed to enable seamless col
 
 ---
 
+🌐 Live Demo -- https://synergia-connect-nine.vercel.app/
+
+---
+
 ## 📌 Features
 
 - 🔐 User Authentication (JWT-based secure login/signup)
